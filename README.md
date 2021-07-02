@@ -10,7 +10,7 @@ Any changes you do to your car with the information in this repository _might_ v
 
 ## Requirements
 
-To keep things more visible, easier to read and manage, we'll keep the requirements in a seperate document: [Requirements.md](https://github.com/Korni22/BMW-Coding/Requirements.md).
+To keep things more visible, easier to read and manage, we'll keep the requirements in a seperate document: [Requirements.md](https://github.com/Korni22/BMW-Coding/blob/main/Requirements.md).
 
 ## Actual Coding
 
