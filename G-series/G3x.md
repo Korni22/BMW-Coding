@@ -8,7 +8,7 @@ ECU `BDC` --> `3120 PfInternalMirror` --> set to "dunkel"
 
 If you want you day time running lights [to also turn on the rear lights](https://www.g30-forum.de/forum/thread/309-bimmercode-liste-aller-codierungen-g30-g31/?postID=12471#post12471) (not brake lights obviously):
 
-ECU `HU_MGU` --> `DAYDRIVING_LIGHT` --> set to "Standard" / 01
+ECU `HU_MGU` --> `DAYDRIVING_LIGHT` --> set to "Standard" / 01 </br>
 ECU `BDC_BODY3` --> `LIC_FEATURE_4` --> set to "Enable" / 01
 
 Please note, that these options are untested. I have access to a G30 M550i pre-LCI, latest software (as of May 2021), but the second option is _not_ available.
